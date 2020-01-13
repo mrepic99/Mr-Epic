@@ -20,76 +20,76 @@ Section 1: General & Ship Rules
 1.10. Do not enter a vehicle unless it belongs to you, you have been instructed to, or you are trained to use the vehicle.
 1.11. Do not follow/harass any players intentionally.
 1.12. Keep swearing and insults to a minimal amount.
-1.13. You must always present your ID when asked by Shock, Jedi Council and Base Ops.
+1.13. You must always present your ID when asked by Clone Guard & Base Ops.
 1.14. Never meta-game.
 1.15. Never grapple hook a player without a valid reason (using the hook to catch a player in RP is not a valid reason).
 1.16. Never buy a door if the opportunity arises.
 1.17. Barracks are an OOC area only in your own barracks and when you will not disturb other regiments barracks.
-
-Section 2: Regimental Rules
+1.18 The highest ranked person of Imperial Navy has the highest authority on the Ground Base & Star Destroyer.
+1.19 Grand Admiral Tarkin has the highest authority on the  Death star.
+Section 2: Battalion Rules
 2.1. You may only join one regiment every 2 days, or with permission from your current commander to leave and join another regiment.
-2.2. You may only join a regiment through a tryout, unless that regiment has no active members and you have permission from the Grand Admiral or a superadmin.
+2.2. You may only join a regiment through a tryout, unless that regiment has no active members and you have permission from a High Command.
 2.3. You can NEVER "transfer" to another regiment without a tryout, the only exception would be commanders in extreme situations.
 2.4. When you join a new regiment you must always start from the rank of Private (PVT).
-2.5. If your commander tells you to leave the regiment for any reason, you will do so respecting their decision. If you really wish to dispute their decision then you may talk to a Commodore +
+2.5. If your commander tells you to leave the regiment for any reason, you will do so respecting their decision. If you really wish to dispute their decision then you may talk to a Naval: Commodore or above.
 2.6. You cannot promote someone above your current rank. Ask your commander who can promote.
 2.7. You may NEVER promote yourself to a higher rank
 2.8. You may only be promoted once a day until the the rank of Staff Sergeant, once every two days until the rank of First Lieutenant however this should take much longer since the higher ranks require leadership skills.
 2.9. Respect and follow the chain of command, you should always listen to your higher-ups.
-2.10. If someone is the same rank as you in a separate regiment or CT, then you cannot order them around.
+2.10. If someone is the same rank as you in a separate regiment or ST, then you cannot order them around.
 2.11. You are not to order around other regiments unless you have permission to (The only exception would be if a commander has asked if the other regiment would like to be led by him/her).
-2.12. When you join a new regiment you lose all your current specialization training, however you may be retrained to the level you were previously at.
+2.12. When you join a new regiment you lose all your current specialisation training, however you may be retrained to the level you were previously at.
+2.13 Each Battalion can have the max of 10 members max number will be changed when we get active and have more members.
 
-Section 3: Jedi Rules
-3.1. Always use the lightsaber settings defined in the respective document.
-3.2. Always follow the respective documents provided by Yoda & Mace Windu.
+Section 3: Sith Rules
+3.1. Always use the Lightsaber settings defined in the respective document.
+3.2. Always follow the respective documents provided by The Emperor.
 
-Section 4: Base Ops Rules
+Section 4: Imperial Navy Rules
 4.1 General
-4.1.1 All Base Ops must be in communication with each other.
-4.1.2 All Base Ops must work with Shock Troopers.
-4.1.3 PO3 and up must know and understand both Medical & Engineer training programs.
-4.1.4 C4PO's Must have extensive training in both Medical and engineering.
-4.1.5 Only 1 Promotion per person every 2 days.
-4.1.6 No promoting for other battalions when on Base Ops.
-4.1.7 Base Ops are not allowed to travel outside the main base without considerable reason. (Base is under heavy attack, Base Code 1, etc) However, they are allowed to travel with an escort
+4.1.1 All Imperial Naval must be in communication with each other.
+4.1.2 All Imperial Naval must work with Shock.
+4.1.3 Only 1 Promotion per person every 2 days.
+4.1.4 No promoting for other battalions when on Imperial Naval.
+4.1.5 Imperial Naval are not allowed to travel outside the main base without considerable reason. (Base or Star Destroyer is under heavy attack, Defcon 1, etc) However, they are allowed to travel with an shock escort.
 
 4.2 Respect
-4.1.1 Respect all personnel on Base.
+4.1.1 Respect all personnel on Ground Base, Sith Temple or Star Destroyer & Deathstar.
 4.1.2 Do not use foul language.
 4.1.3 Do not use the communications systems for unimportant matters.
 4.1.4 Do not attempt to impersonate any other personnel.
 
 4.3 Rules of Engagement
-4.1.1 Do not engage in Jedi matters unless asked to.
+4.1.1 Do not engage in Sith matters unless asked to.
 4.1.2 Always attempt to find cover when possible; you are defenceless in comparison to the troops.
 4.1.3 Watch for friendly fire.
  
 4.4 Orders
 4.1.1 The final order is from the highest rank of the specified department
-4.1.1.a Base Ops ranks have higher authorisation when dealing with ship, ground base matters.
-4.1.1.b Clone ranks have higher authorisation when dealing with combat deployments.
-4.1.1.c Jedi ranks have higher authorisation when dealing with Force-sensitive matters.
+4.1.1.a Naval ranks have higher authorisation when dealing with ship, ground base matters.
+4.1.1.b Storm Trooper ranks have higher authorisation when dealing with combat deployments.
+4.1.1.c Sith ranks have higher authorisation when dealing with Force-sensitive matters.
 4.1.2 Always obey orders from your superiors.
 4.1.3 You cannot command your superiors, only advise.
-4.1.4 Shock & Base Ops Commander + may request your ID when necessary. Ensure you have it on your person at all times.
+4.1.4 Shock & Navy Officer+ and Sith Council may request your ID when necessary. Ensure you have it on your person at all times.
 
 4.5 Regulations
 4.5.1 Do not enter areas above your clearance level or rank.
-4.5.2 Do not enter a barracks without authorisation or CL3.
+4.5.2 Do not enter a bunks without authorisation or Clearance 3.
 4.5.3 Do not attempt to enter an area being guarded without permission for entry.
-4.5.4 Do not idle except when in the Fleet barracks.
+4.5.4 Do not idle except when in the Imperial Navy bunks.
 
 Section 5: Specialization Rules
 5.1 General
-5.1.1 Once you pass Base Ops tryout you may tryout for a specialization.
+5.1.1 Once you pass Navy tryout you may tryout for a specialization.
 5.1.2 You must reach the rank of Crewman (CM) to tryout for a Branch.
 5.1.3 You cannot be more than one specialization at any one time.
 5.1.4 If you train in a new specialization you will have to retrain in your previous specialization in-order to gain access to it again.
 
 5.2 Pilot Rules
 5.2.1 Only pilots may enter the cockpit of a spaceship.
-5.2.2 Do not take off or engage hostiles unless given permission from a Base Ops Officer .
+5.2.2 Do not take off or engage hostiles unless given permission from a Navy Officer .
 5.2.3 Do not exit your spaceship whilst in space.
 5.2.4 Do not fire upon other friendly craft.
 5.2.5 Do not give your spaceship to any other personnel.
@@ -97,37 +97,34 @@ Section 5: Specialization Rules
 5.2.7 Always ask permission to take off or land.
 5.2.8 Ensure the location is clear before requesting permission.
 5.2.9 Do not hover unless you are taking off or landing.
-5.2.10 Emergency pilots may only fly LAATs when given permission from a Fleet Officer
 
 5.3 Explosives Rules
 5.3.1 The RPS-6 may only used against Vehicles and Aircraft.
-5.3.2 You can only place a maximun of 5 detonators in a single area/room at once unless told otherwise by a member of staff in a RP sitaution.
-5.3.3 You may not place explosives randomly/use explosives outside of authorised trainings or during events.
+5.3.2 You can only place a maximum of 5 detonators in a single area/room at once unless told otherwise by a member of staff in a RP situation.
+5.3.3 You may not place explosives randomly/use explosives outside of authorised training's or during events.
 
 Section 6: Event Rules
-6.1. Never shield bash any event character with the exception of sith in which you can hit them once every minute.
-6.2. Never shield assassinate an event character.
-6.3. Never stunstick event characters or npcs.
-6.4. Never shoot a cloaked event character unless they are not walking or standing still.
-6.5. Do not intentionally touch cloaked event characters inorder to meta game their location.
-6.6. Do not meta-game events.
-6.7. Never used weapons while cloaked (The only exception would be a deathwatches knife).
-6.8. Never Grapple hook an event character.
-6.9. Do not abuse any bugs or glitches with medical items in order to reduce an event characters health to the default amount.
-6.10. If playing as a event character never use your mic unless required to. E.G Droid's should never speak however deathwatch can.
-6.11. Keep mic usage as event characters to serious roleplay reasons only.
-6.12. When no longer required as a event characters always change back to your original job.
-6.13. Do not sprint as a Droid with the exception of Magna Guarda and Commando droids.
+6.1. Never shield assassinate an event character.
+6.2. Never stun stick event characters or NPC's.
+6.3. Never shoot a cloaked event character unless they are not walking or standing still.
+6.4. Do not intentionally touch cloaked event characters in order to meta game their location.
+6.5. Do not meta-game events.
+6.6. Never used weapons while cloaked (The only exception would be a deathwatches knife).
+6.7. Never Grapple hook an event character.
+6.8. Do not abuse any bugs or glitches with medical items in order to reduce an event characters health to the default amount.
+6.9. If playing as a event character never use your mic unless required to. E.G Droid's should never speak however deathwatch can.
+6.10. Keep mic usage as event characters to serious Roleplay reasons only.
+6.11. When no longer required as a event characters always change back to your original job.
 
 Section 7: Donator Rules
-7.1. Donation are not refundable.
-7.2. If you donate you understand that you are doing to help fund the servers upkeep costs and any new potential scripts, models and addons.
-7.3. Your donation rewards can be removed at anytime by Server Owner or Owner if abused.
-7.4. As a donator you are not immune to warnings, bans or kicks, You are still expected to follow the rules just like everyone else.
+7.1. Donation's are not refundable.
+7.2. If you donate you must understand that you are doing this to help fund the servers upkeep costs and any new potential scripts, models and addons.
+7.3. Your donation rewards can be removed at anytime by the Owner if abused.
+7.4. As a Donator you are not immune to warnings, bans or kicks, You are still expected to follow the rules just like everyone else.
 7.5. Do not spam sound sweps when in neutral jobs.
-7.6. Do not interfere with events, trainings, simulations or tryouts as a neutral job.
-7.7. If a clone asks you to leave an area as a neutral job you must listen to them and follow the order.
-7.8. Neutral jobs have no authority on the ship, they are simply there as guests of the republic.
+7.6. Do not interfere with events, training's, simulations or tryouts as a neutral job.
+7.7. If a Sith Guard, Shock, Death Trooper, ISB or Navy asks you to leave an area as a neutral job you must listen to them and follow the order.
+7.8. Neutral jobs have no authority on the ship, they are simply there as guests of the Galactic Empire.
 7.9. You cannot use /comms or /advert as a neutral job as you do not have access to them in rp.
 
 Section 8: Defcon's
@@ -135,4 +132,4 @@ Section 8: Defcon's
 8.2 High Alert (Weapons out, patrol the base & surroundings)
 8.3 All battalions to Battle Stations.
 8.4 Evacuate the Base.
-a. Defcon's are called by highest ranks online within the Republic Base or if no Base Ops or Shock is online (or active) then the the highest ranking Jedi may call Defcon's.
+a. Defcon's are called by highest ranks online within the Ground Base/Star Destroyer/Deathstar or if no Naval, ISB or Shock is online (or active) then the the highest ranking Sith may call Defcon's.
