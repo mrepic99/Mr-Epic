@@ -130,4 +130,4 @@ Section 8: Defcon's
 8.2 High Alert (Weapons out, patrol the base & surroundings)
 8.3 All battalions to Battle Stations.
 8.4 Evacuate the Base.
-a. Defcon's are called by highest ranks online within the Ground Base/Star Destroyer/Deathstar or if no 304th Mason Company is online (or active) then the the highest ranking Jedi may call Defcon's.
+a. Defcon's are called by highest ranks online within the Ground Base/Venator or if no 304th Mason Company is online (or active) then the the highest ranking Jedi may call Defcon's.
