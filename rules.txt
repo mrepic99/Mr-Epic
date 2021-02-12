@@ -20,13 +20,13 @@ Section 1: General & Ship Rules
 1.10. Do not enter a vehicle unless it belongs to you, you have been instructed to, or you are trained to use the vehicle.
 1.11. Do not follow/harass any players intentionally.
 1.12. Keep swearing and insults to a minimal amount.
-1.13. You must always present your ID when asked by Clone Guard & Base Ops.
+1.13. You must always present your ID when asked by 304th Mason Company.
 1.14. Never meta-game.
 1.15. Never grapple hook a player without a valid reason (using the hook to catch a player in RP is not a valid reason).
 1.16. Never buy a door if the opportunity arises.
 1.17. Barracks are an OOC area only in your own barracks and when you will not disturb other regiments barracks.
-1.18 The highest ranked person of Imperial Navy has the highest authority on the Ground Base & Star Destroyer.
-1.19 Grand Admiral Tarkin has the highest authority on the  Death star.
+1.18 The highest ranked person of Imperial Navy has the highest authority on the Ground Base & Venator.
+1.19 Battalion Commander has the highest authority on the Ground Base & Venator.
 Section 2: Battalion Rules
 2.1. You may only join one regiment every 2 days, or with permission from your current commander to leave and join another regiment.
 2.2. You may only join a regiment through a tryout, unless that regiment has no active members and you have permission from a High Command.
@@ -42,20 +42,19 @@ Section 2: Battalion Rules
 2.12. When you join a new regiment you lose all your current specialisation training, however you may be retrained to the level you were previously at.
 2.13 Each Battalion can have the max of 10 members max number will be changed when we get active and have more members.
 
-Section 3: Sith Rules
+Section 3: Jedi Rules
 3.1. Always use the Lightsaber settings defined in the respective document.
-3.2. Always follow the respective documents provided by The Emperor.
+3.2. Always follow the respective documents provided by Jedi General.
 
-Section 4: Imperial Navy Rules
+Section 4: 304th Mason Company Rules
 4.1 General
-4.1.1 All Imperial Naval must be in communication with each other.
-4.1.2 All Imperial Naval must work with Shock.
-4.1.3 Only 1 Promotion per person every 2 days.
-4.1.4 No promoting for other battalions when on Imperial Naval.
-4.1.5 Imperial Naval are not allowed to travel outside the main base without considerable reason. (Base or Star Destroyer is under heavy attack, Defcon 1, etc) However, they are allowed to travel with an shock escort.
+4.1.1 All 304th Mason Company must be in communication with each other.
+4.1.2 Only 1 Promotion per person every 2 days.
+4.1.3 No promoting for other battalions when on 304th Mason Company.
+4.1.4 662nd Mechanical Company are not allowed to travel outside the main base without considerable reason. (Base or Venator is under heavy attack, Defcon 1, etc) However, they are allowed to travel with an 304th Mason Company escort.
 
 4.2 Respect
-4.1.1 Respect all personnel on Ground Base, Sith Temple or Star Destroyer & Deathstar.
+4.1.1 Respect all personnel on Ground Base, Jedi Temple or Ground Base & Venator.
 4.1.2 Do not use foul language.
 4.1.3 Do not use the communications systems for unimportant matters.
 4.1.4 Do not attempt to impersonate any other personnel.
@@ -67,29 +66,29 @@ Section 4: Imperial Navy Rules
  
 4.4 Orders
 4.1.1 The final order is from the highest rank of the specified department
-4.1.1.a Naval ranks have higher authorisation when dealing with ship, ground base matters.
-4.1.1.b Storm Trooper ranks have higher authorisation when dealing with combat deployments.
-4.1.1.c Sith ranks have higher authorisation when dealing with Force-sensitive matters.
+4.1.1.a 304th Mason Company ranks have higher authorisation when dealing with ship, ground base matters.
+4.1.1.b 192nd White Company Commander ranks have higher authorisation when dealing with combat deployments.
+4.1.1.c jedi ranks have higher authorisation when dealing with Force-sensitive matters.
 4.1.2 Always obey orders from your superiors.
 4.1.3 You cannot command your superiors, only advise.
-4.1.4 Shock & Navy Officer+ and Sith Council may request your ID when necessary. Ensure you have it on your person at all times.
+4.1.4 304th Mason Company Officer+ and Jedi Council may request your ID when necessary. Ensure you have it on your person at all times.
 
 4.5 Regulations
 4.5.1 Do not enter areas above your clearance level or rank.
 4.5.2 Do not enter a bunks without authorisation or Clearance 3.
 4.5.3 Do not attempt to enter an area being guarded without permission for entry.
-4.5.4 Do not idle except when in the Imperial Navy bunks.
+4.5.4 Do not idle except when in the 304th Mason Company bunks.
 
 Section 5: Specialization Rules
 5.1 General
-5.1.1 Once you pass Navy tryout you may tryout for a specialization.
-5.1.2 You must reach the rank of Crewman (CM) to tryout for a Branch.
+5.1.1 Once you pass 304th Mason Company tryout you may tryout for a specialization.
+5.1.2 You must reach the rank of Private (PVT) to tryout for a Branch.
 5.1.3 You cannot be more than one specialization at any one time.
 5.1.4 If you train in a new specialization you will have to retrain in your previous specialization in-order to gain access to it again.
 
 5.2 Pilot Rules
 5.2.1 Only pilots may enter the cockpit of a spaceship.
-5.2.2 Do not take off or engage hostiles unless given permission from a Navy Officer .
+5.2.2 Do not take off or engage hostiles unless given permission from a 662nd Mechanical Company Officer .
 5.2.3 Do not exit your spaceship whilst in space.
 5.2.4 Do not fire upon other friendly craft.
 5.2.5 Do not give your spaceship to any other personnel.
@@ -112,9 +111,8 @@ Section 6: Event Rules
 6.6. Never used weapons while cloaked (The only exception would be a deathwatches knife).
 6.7. Never Grapple hook an event character.
 6.8. Do not abuse any bugs or glitches with medical items in order to reduce an event characters health to the default amount.
-6.9. If playing as a event character never use your mic unless required to. E.G Droid's should never speak however deathwatch can.
-6.10. Keep mic usage as event characters to serious Roleplay reasons only.
-6.11. When no longer required as a event characters always change back to your original job.
+6.9. Keep mic usage as event characters to serious Roleplay reasons only.
+6.10. When no longer required as a event characters always change back to your original job.
 
 Section 7: Donator Rules
 7.1. Donation's are not refundable.
@@ -123,7 +121,7 @@ Section 7: Donator Rules
 7.4. As a Donator you are not immune to warnings, bans or kicks, You are still expected to follow the rules just like everyone else.
 7.5. Do not spam sound sweps when in neutral jobs.
 7.6. Do not interfere with events, training's, simulations or tryouts as a neutral job.
-7.7. If a Sith Guard, Shock, Death Trooper, ISB or Navy asks you to leave an area as a neutral job you must listen to them and follow the order.
+7.7. If a Jedi Order, 304th Mason Company, Republic Commando, 662nd Mechanical Company asks you to leave an area as a neutral job you must listen to them and follow the order.
 7.8. Neutral jobs have no authority on the ship, they are simply there as guests of the Galactic Empire.
 7.9. You cannot use /comms or /advert as a neutral job as you do not have access to them in rp.
 
@@ -132,4 +130,4 @@ Section 8: Defcon's
 8.2 High Alert (Weapons out, patrol the base & surroundings)
 8.3 All battalions to Battle Stations.
 8.4 Evacuate the Base.
-a. Defcon's are called by highest ranks online within the Ground Base/Star Destroyer/Deathstar or if no Naval, ISB or Shock is online (or active) then the the highest ranking Sith may call Defcon's.
+a. Defcon's are called by highest ranks online within the Ground Base/Star Destroyer/Deathstar or if no 304th Mason Company is online (or active) then the the highest ranking Jedi may call Defcon's.
