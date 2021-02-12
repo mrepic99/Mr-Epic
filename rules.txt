@@ -122,7 +122,7 @@ Section 7: Donator Rules
 7.5. Do not spam sound sweps when in neutral jobs.
 7.6. Do not interfere with events, training's, simulations or tryouts as a neutral job.
 7.7. If a Jedi Order, 304th Mason Company, Republic Commando, 662nd Mechanical Company asks you to leave an area as a neutral job you must listen to them and follow the order.
-7.8. Neutral jobs have no authority on the ship, they are simply there as guests of the Galactic Empire.
+7.8. Neutral jobs have no authority on the ship, they are simply there as guests of the Republic.
 7.9. You cannot use /comms or /advert as a neutral job as you do not have access to them in rp.
 
 Section 8: Defcon's
